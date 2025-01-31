@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Banti Ideal High School</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>Banti Ideal High School</h1>
+<p>Excellence in Education</p>
+</header>
+
+<nav>
+<ul>
+<li><a href="#about">About Us</a></li>
+<li><a href="#admission">Admission</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</nav>
+
+<section id="about">
+<h2>About Our School</h2>
+<p>Banti Ideal High School is committed to providing quality education with a focus on academic excellence and character development.</p>
+</section>
+
+<section id="admission">
+<h2>Admission Information</h2>
+<p>We welcome new students every year. Please contact us for details on the admission process.</p>
+</section>
+
+<section id="contact">
+<h2>Contact Us</h2>
+<p>Email: info@bantiidealhs.com</p>
+<p>Phone: +880 1234 567890</p>
+</section>
+
+<footer>
+<p>&copy; 2025 Banti Ideal High School. All rights reserved.</p>
+</footer>
+</body>
+</html>
