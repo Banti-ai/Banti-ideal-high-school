@@ -1,0 +1,1 @@
+# Banti-ideal-high-school
